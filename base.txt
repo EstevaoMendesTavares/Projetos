@@ -1,0 +1,101 @@
+ID_Pedido,Data_Pedido,ID_Cliente,Nome_Produto,Categoria_Produto,Quantidade,Preco_Unitario,Total_Venda,Status_Pedido,Metodo_Pagamento,Cidade_Entrega,Estado_Entrega
+10001,2024-01-05,C001,Smartphone X,Eletronicos,1,1200.00,1200.00,Concluido,Cartao de Credito,Sao Paulo,SP
+10002,2024-01-06,C002,Fone de Ouvido Bluetooth,Eletronicos,1,250.00,250.00,Concluido,Pix,Rio de Janeiro,RJ
+10003,2024-01-07,C003,Camiseta Casual,Roupas,2,60.00,120.00,Pendente,Boleto,Belo Horizonte,MG
+10004,2024-01-07,C001,Capa para Celular,Acessorios,1,45.00,45.00,Concluido,Cartao de Credito,Sao Paulo,SP
+10005,2024-01-08,C004,Livro de Ficcao,Livros,1,35.00,35.00,Concluido,Pix,Curitiba,PR
+10006,2024-01-09,C005,Tenis Esportivo,Calçados,1,300.00,300.00,Concluido,Cartao de Credito,Porto Alegre,RS
+10007,2024-01-10,C002,Smartwatch Y,Eletronicos,1,800.00,800.00,Pendente,Boleto,Rio de Janeiro,RJ
+10008,2024-01-11,C006,Calça Jeans,Roupas,1,150.00,150.00,Concluido,Pix,Salvador,BA
+10009,2024-01-12,C007,Kit de Panelas,Cozinha,1,450.00,450.00,Concluido,Cartao de Credito,Fortaleza,CE
+10010,2024-01-13,C003,Mochila Escolar,Acessorios,1,90.00,90.00,Concluido,Boleto,Belo Horizonte,MG
+10011,2024-01-14,C008,Perfume Masculino,Beleza,1,180.00,180.00,Concluido,Cartao de Credito,Goiania,GO
+10012,2024-01-15,C009,Cadeira Gamer,Moveis,1,900.00,900.00,Pendente,Pix,Brasilia,DF
+10013,2024-01-16,C001,Teclado Mecanico,Eletronicos,1,300.00,300.00,Concluido,Cartao de Credito,Sao Paulo,SP
+10014,2024-01-17,C005,Blusa de La,Roupas,1,110.00,110.00,Concluido,Boleto,Porto Alegre,RS
+10015,2024-01-18,C010,Patinete Eletrico,Esportes,1,1500.00,1500.00,Concluido,Pix,Recife,PE
+10016,2024-01-19,C002,Webcam HD,Eletronicos,1,120.00,120.00,Concluido,Cartao de Credito,Rio de Janeiro,RJ
+10017,2024-01-20,C004,Agenda 2024,Papelaria,1,25.00,25.00,Concluido,Pix,Curitiba,PR
+10018,2024-01-21,C006,Relogio de Pulso,Acessorios,1,200.00,200.00,Pendente,Cartao de Credito,Salvador,BA
+10019,2024-01-22,C011,Fritadeira Eletrica,Eletrodomesticos,1,350.00,350.00,Concluido,Boleto,Manaus,AM
+10020,2024-01-23,C008,Hidratante Corporal,Beleza,2,40.00,80.00,Concluido,Pix,Goiania,GO
+10021,2024-01-24,C012,Barbeador Eletrico,Beleza,1,180.00,180.00,Concluido,Cartao de Credito,Florianopolis,SC
+10022,2024-01-25,C013,Jogo de Tabuleiro,Brinquedos,1,75.00,75.00,Concluido,Pix,Vitoria,ES
+10023,2024-01-26,C007,Cafeteira Expresso,Cozinha,1,600.00,600.00,Pendente,Boleto,Fortaleza,CE
+10024,2024-01-27,C009,Monitor Ultrawide,Eletronicos,1,1800.00,1800.00,Concluido,Cartao de Credito,Brasilia,DF
+10025,2024-01-28,C010,Bicicleta Ergometrica,Esportes,1,1100.00,1100.00,Concluido,Pix,Recife,PE
+10026,2024-01-29,C001,Mouse Sem Fio,Eletronicos,1,80.00,80.00,Concluido,Cartao de Credito,Sao Paulo,SP
+10027,2024-01-30,C003,Jaqueta de Couro,Roupas,1,400.00,400.00,Pendente,Boleto,Belo Horizonte,MG
+10028,2024-01-31,C005,Sandalia Feminina,Calçados,1,95.00,95.00,Concluido,Pix,Porto Alegre,RS
+10029,2024-02-01,C014,Camera Digital,Eletronicos,1,700.00,700.00,Concluido,Cartao de Credito,Natal,RN
+10030,2024-02-02,C015,Fone de Ouvido com Fio,Eletronicos,1,100.00,100.00,Concluido,Boleto,Maceio,AL
+10031,2024-02-03,C001,Tablet A1,Eletronicos,1,950.00,950.00,Concluido,Cartao de Credito,Sao Paulo,SP
+10032,2024-02-04,C002,Carregador Portatil,Acessorios,1,70.00,70.00,Pendente,Pix,Rio de Janeiro,RJ
+10033,2024-02-05,C003,Vestido de Verao,Roupas,1,180.00,180.00,Concluido,Boleto,Belo Horizonte,MG
+10034,2024-02-06,C004,Caneca Personalizada,Presentes,2,30.00,60.00,Concluido,Cartao de Credito,Curitiba,PR
+10035,2024-02-07,C005,Sapato Social,Calçados,1,220.00,220.00,Concluido,Pix,Porto Alegre,RS
+10036,2024-02-08,C006,Kit Maquiagem,Beleza,1,250.00,250.00,Pendente,Cartao de Credito,Salvador,BA
+10037,2024-02-09,C007,Liquidificador,Eletrodomesticos,1,180.00,180.00,Concluido,Boleto,Fortaleza,CE
+10038,2024-02-10,C008,Serum Facial,Beleza,1,90.00,90.00,Concluido,Pix,Goiania,GO
+10039,2024-02-11,C009,Cama Box,Moveis,1,1200.00,1200.00,Concluido,Cartao de Credito,Brasilia,DF
+10040,2024-02-12,C010,Halteres,Esportes,1,150.00,150.00,Pendente,Boleto,Recife,PE
+10041,2024-02-13,C011,Secador de Cabelo,Eletrodomesticos,1,130.00,130.00,Concluido,Pix,Manaus,AM
+10042,2024-02-14,C012,Boneca Colecionavel,Brinquedos,1,50.00,50.00,Concluido,Cartao de Credito,Florianopolis,SC
+10043,2024-02-15,C013,Livro de Autoajuda,Livros,1,40.00,40.00,Concluido,Pix,Vitoria,ES
+10044,2024-02-16,C014,Smart TV 4K,Eletronicos,1,2500.00,2500.00,Pendente,Cartao de Credito,Natal,RN
+10045,2024-02-17,C015,Filtro de Agua,Cozinha,1,160.00,160.00,Concluido,Boleto,Maceio,AL
+10046,2024-02-18,C001,Impressora Multifuncional,Eletronicos,1,600.00,600.00,Concluido,Pix,Sao Paulo,SP
+10047,2024-02-19,C002,Mousepad Gamer,Acessorios,1,30.00,30.00,Concluido,Cartao de Credito,Rio de Janeiro,RJ
+10048,2024-02-20,C003,Saia Plissada,Roupas,1,85.00,85.00,Pendente,Boleto,Belo Horizonte,MG
+10049,2024-02-21,C004,Fone de Ouvido Esportivo,Eletronicos,1,120.00,120.00,Concluido,Pix,Curitiba,PR
+10050,2024-02-22,C005,Chinelo de Dedo,Calçados,1,50.00,50.00,Concluido,Cartao de Credito,Porto Alegre,RS
+10051,2024-02-23,C006,Shampoo e Condicionador,Beleza,1,70.00,70.00,Pendente,Pix,Salvador,BA
+10052,2024-02-24,C007,Fogao 4 Bocas,Eletrodomesticos,1,750.00,750.00,Concluido,Boleto,Fortaleza,CE
+10053,2024-02-25,C008,Protetor Solar,Beleza,2,45.00,90.00,Concluido,Cartao de Credito,Goiania,GO
+10054,2024-02-26,C009,Guarda-Roupa,Moveis,1,1500.00,1500.00,Concluido,Pix,Brasilia,DF
+10055,2024-02-27,C010,Tapete de Yoga,Esportes,1,80.00,80.00,Pendente,Boleto,Recife,PE
+10056,2024-02-28,C011,Ferro de Passar,Eletrodomesticos,1,90.00,90.00,Concluido,Pix,Manaus,AM
+10057,2024-02-29,C012,Kit de Massinha,Brinquedos,1,35.00,35.00,Concluido,Cartao de Credito,Florianopolis,SC
+10058,2024-03-01,C013,Livro Infantil,Livros,1,28.00,28.00,Concluido,Pix,Vitoria,ES
+10059,2024-03-02,C014,Console de Video Game,Eletronicos,1,2000.00,2000.00,Pendente,Cartao de Credito,Natal,RN
+10060,2024-03-03,C015,Aspirador de Po,Eletrodomesticos,1,400.00,400.00,Concluido,Boleto,Maceio,AL
+10061,2024-03-04,C001,SSD Externo,Eletronicos,1,380.00,380.00,Concluido,Pix,Sao Paulo,SP
+10062,2024-03-05,C002,Fone de Ouvido Gamer,Eletronicos,1,180.00,180.00,Concluido,Cartao de Credito,Rio de Janeiro,RJ
+10063,2024-03-06,C003,Calça Legging,Roupas,1,70.00,70.00,Pendente,Boleto,Belo Horizonte,MG
+10064,2024-03-07,C004,Power Bank,Acessorios,1,100.00,100.00,Concluido,Pix,Curitiba,PR
+10065,2024-03-08,C005,Bota Feminina,Calçados,1,280.00,280.00,Concluido,Cartao de Credito,Porto Alegre,RS
+10066,2024-03-09,C006,Escova de Cabelo,Beleza,1,35.00,35.00,Pendente,Pix,Salvador,BA
+10067,2024-03-10,C007,Forno Eletrico,Eletrodomesticos,1,550.00,550.00,Concluido,Boleto,Fortaleza,CE
+10068,2024-03-11,C008,Maquiagem Basica,Beleza,1,120.00,120.00,Concluido,Cartao de Credito,Goiania,GO
+10069,2024-03-12,C009,Mesa de Centro,Moveis,1,300.00,300.00,Concluido,Pix,Brasilia,DF
+10070,2024-03-13,C010,Corda de Pular,Esportes,1,20.00,20.00,Pendente,Boleto,Recife,PE
+10071,2024-03-14,C011,Ventilador,Eletrodomesticos,1,140.00,140.00,Concluido,Pix,Manaus,AM
+10072,2024-03-15,C012,Quebra-Cabeca,Brinquedos,1,40.00,40.00,Concluido,Cartao de Credito,Florianopolis,SC
+10073,2024-03-16,C013,Revista Digital,Livros,1,15.00,15.00,Concluido,Pix,Vitoria,ES
+10074,2024-03-17,C014,Home Theater,Eletronicos,1,1000.00,1000.00,Pendente,Cartao de Credito,Natal,RN
+10075,2024-03-18,C015,Micro-ondas,Eletrodomesticos,1,450.00,450.00,Concluido,Boleto,Maceio,AL
+10076,2024-03-19,C001,Pen Drive,Eletronicos,2,50.00,100.00,Concluido,Pix,Sao Paulo,SP
+10077,2024-03-20,C002,Capa para Tablet,Acessorios,1,60.00,60.00,Concluido,Cartao de Credito,Rio de Janeiro,RJ
+10078,2024-03-21,C003,Short Jeans,Roupas,1,90.00,90.00,Pendente,Boleto,Belo Horizonte,MG
+10079,2024-03-22,C004,Mesa Digitalizadora,Eletronicos,1,400.00,400.00,Concluido,Pix,Curitiba,PR
+10080,2024-03-23,C005,Sapato Feminino,Calçados,1,180.00,180.00,Concluido,Cartao de Credito,Porto Alegre,RS
+10081,2024-03-24,C006,Condicionador de Cabelo,Beleza,1,35.00,35.00,Pendente,Pix,Salvador,BA
+10082,2024-03-25,C007,Geladeira,Eletrodomesticos,1,2000.00,2000.00,Concluido,Boleto,Fortaleza,CE
+10083,2024-03-26,C008,Perfume Feminino,Beleza,1,220.00,220.00,Concluido,Cartao de Credito,Goiania,GO
+10084,2024-03-27,C009,Estante de Livros,Moveis,1,400.00,400.00,Concluido,Pix,Brasilia,DF
+10085,2024-03-28,C010,Esteira Eletrica,Esportes,1,2500.00,2500.00,Pendente,Boleto,Recife,PE
+10086,2024-03-29,C011,Batedeira,Eletrodomesticos,1,200.00,200.00,Concluido,Pix,Manaus,AM
+10087,2024-03-30,C012,Blocos de Montar,Brinquedos,1,55.00,55.00,Concluido,Cartao de Credito,Florianopolis,SC
+10088,2024-03-31,C013,Ebook de Receitas,Livros,1,20.00,20.00,Concluido,Pix,Vitoria,ES
+10089,2024-04-01,C014,Fone de Ouvido Sem Fio,Eletronicos,1,300.00,300.00,Pendente,Cartao de Credito,Natal,RN
+10090,2024-04-02,C015,Máquina de Lavar,Eletrodomesticos,1,1500.00,1500.00,Concluido,Boleto,Maceio,AL
+10091,2024-04-03,C001,Headset Gamer,Eletronicos,1,250.00,250.00,Concluido,Pix,Sao Paulo,SP
+10092,2024-04-04,C002,Webcam Full HD,Eletronicos,1,180.00,180.00,Concluido,Cartao de Credito,Rio de Janeiro,RJ
+10093,2024-04-05,C003,Meia Calça,Roupas,2,25.00,50.00,Pendente,Boleto,Belo Horizonte,MG
+10094,2024-04-06,C004,Cabo USB-C,Acessorios,1,15.00,15.00,Concluido,Pix,Curitiba,PR
+10095,2024-04-07,C005,Bolsa de Ombro,Acessorios,1,120.00,120.00,Concluido,Cartao de Credito,Porto Alegre,RS
+10096,2024-04-08,C006,Kit de Pincéis,Beleza,1,60.00,60.00,Pendente,Pix,Salvador,BA
+10097,2024-04-09,C007,Grill Eletrico,Eletrodomesticos,1,160.00,160.00,Concluido,Boleto,Fortaleza,CE
+10098,2024-04-10,C008,Esmalte,Beleza,3,10.00,30.00,Concluido,Cartao de Credito,Goiania,GO
+10099,2024-04-11,C009,Poltrona,Moveis,1,600.00,600.00,Concluido,Pix,Brasilia,DF
+10100,2024-04-12,C010,Luvas de Academia,Esportes,1,45.00,45.00,Pendente,Boleto,Recife,PE
