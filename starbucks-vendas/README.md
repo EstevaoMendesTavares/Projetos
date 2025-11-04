@@ -18,7 +18,6 @@ Este projeto simula a análise de dados de vendas de uma loja Starbucks, com foc
 
 1.  **ETL e Transformação de Dados:**
     * O tratamento de dados foi realizado via **Power Query**, focando na limpeza e padronização das colunas de tempo para criar a dimensão de `Turno` (Manhã, Tarde, Noite).
-    * **🔗 [Ver Planilha de Dados de Origem (VendasStarbucks.xlsx)]**(./VendasStarbucks.xlsx)
 
 2.  **Modelagem e DAX:**
     * O modelo foi desenhado para calcular a **Receita por Turno** e a **Distribuição Percentual de Pagamentos**.
@@ -37,5 +36,4 @@ O dashboard revelou os seguintes insights (baseado nos dados fictícios):
 ## 🌐 Estudo de Caso Completo e Dashboard
 
 Clique no link abaixo para ver a **visualização** e o **estudo de caso completo** deste projeto no meu portfólio principal:
-
-**🌐 [Ver Estudo de Caso Detalhado no Site Pessoal]**(https://sites.google.com/view/estevaoadm/p%C3%a1gina-inicial)
+🌐 [Ver Estudo de Caso Detalhado no Site Pessoal](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
