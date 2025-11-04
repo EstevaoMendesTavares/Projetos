@@ -37,4 +37,4 @@ O dashboard desenvolvido revelou:
 ---
 
 ## 🔗 Acesso ao Projeto
-* **🌐 [Ver Estudo de Caso Detalhado no Site Pessoal]** (https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
+🌐 [Ver Estudo de Caso Detalhado no Site Pessoal](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
