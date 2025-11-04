@@ -33,7 +33,5 @@ O dashboard revelou os seguintes insights (baseado nos dados fictícios):
 
 ---
 
-## 🌐 Estudo de Caso Completo e Dashboard
-
-Clique no link abaixo para ver a **visualização** e o **estudo de caso completo** deste projeto no meu portfólio principal:
+## 🔗 Acesso ao Projeto
 🌐 [Ver Estudo de Caso Detalhado no Site Pessoal](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
