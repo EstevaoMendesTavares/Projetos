@@ -18,5 +18,4 @@ Bem-vindo ao meu repositório de projetos. Aqui estão os códigos, bases de dad
 
 * **Power BI** (DAX, Modelagem Estrela)
 * **SQL** (Consultas, Joins, Otimização)
-* **Tableau** (Visualização)
 * **ERP** (Extração de dados de sistemas de gestão)
