@@ -1,1 +1,22 @@
-# Projetos
+# 📁 Portfólio de Projetos em Análise de Dados e Business Intelligence
+
+Bem-vindo ao meu repositório de projetos. Aqui estão os códigos, bases de dados e documentações detalhadas (Estudos de Caso) de meus trabalhos em BI e ETL.
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Habilidades | Status |
+| :--- | :--- | :--- |
+| [**Dashboard de Vendas E-commerce**](./ecommerce-vendas) | Power BI, SQL, Modelagem, Insights de Negócios | Completo |
+| **Dashboard de Vendas Starbucks** | Power BI, SQL, Visualização de Dados | Planejado |
+| **Análise de Logística e Supply Chain** | Power BI, ETL, KPIs Logísticos | Planejado |
+
+---
+
+## 🛠️ Tecnologias Focais
+
+* **Power BI** (DAX, Modelagem Estrela)
+* **SQL** (Consultas, Joins, Otimização)
+* **Tableau** (Visualização)
+* **ERP** (Extração de dados de sistemas de gestão)
