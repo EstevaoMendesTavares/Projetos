@@ -15,16 +15,15 @@ Este projeto foca na análise de vendas e comportamento do cliente para uma empr
 
 ## 🛠️ Metodologia e Pipeline de Dados
 
-**Tecnologias Utilizadas:** Power BI, SQL, Excel/CSV.
+**Tecnologias Utilizadas:** Power BI, Excel/CSV, Power Query.
 
 1.  **ETL e Transformação de Dados:**
-    * A base de dados bruta (em CSV/Excel) foi extraída e carregada para simular um ambiente de banco de dados.
-    * Utilizei consultas **SQL** para integrar as tabelas, tratando inconsistências e calculando métricas preliminares.
-    * **🔗 [Ver código SQL/Dados de Origem (base.txt)]**(./base.txt) 
-    * **🔗 [Ver Planilha de Dados (E-commerce.xlsx)]**(./E-commerce.xlsx)
+    * A base de dados foi carregada a partir dos arquivos Excel/CSV.
+    * O tratamento, limpeza e transformação de dados (ETL) foram realizados integralmente via **Power Query (M Language)** dentro do Power BI, para garantir a qualidade do modelo.
+    * **🔗 [Ver Planilha de Dados de Origem (E-commerce.xlsx)]**(./E-commerce.xlsx)
 
 2.  **Modelagem e DAX:**
-    * A modelagem de dados foi organizada no **Esquema Estrela** para otimizar o desempenho do Power BI.
+    * A modelagem de dados foi organizada no **Esquema Estrela** para otimizar o desempenho e a navegabilidade do Power BI.
     * Criei medidas e colunas calculadas em **DAX** para: Taxa de Conclusão de Pedidos e Receita Acumulada.
 
 ---
