@@ -18,11 +18,11 @@ Este projeto foca na análise de vendas e comportamento do cliente para uma empr
 **Tecnologias Utilizadas:** Power BI, Excel/CSV, Power Query.
 
 1.  **ETL e Transformação de Dados:**
+    * A base de dados foi carregada a partir dos arquivos Excel/CSV.
     * O tratamento, limpeza e transformação de dados (ETL) foram realizados integralmente via **Power Query (M Language)** dentro do Power BI, para garantir a qualidade do modelo.
-    * **🔗 [Ver Planilha de Dados de Origem (E-commerce.xlsx)]**(./E-commerce.xlsx) — *Mantenha o link para os dados brutos no GitHub para provar sua fonte.*
 
 2.  **Modelagem e DAX:**
-    * A modelagem de dados foi organizada no **Esquema Estrela** para otimizar o desempenho do Power BI.
+    * A modelagem de dados foi organizada no **Esquema Estrela** para otimizar o desempenho e a navegabilidade do Power BI.
     * Criei medidas e colunas calculadas em **DAX** para: Taxa de Conclusão de Pedidos e Receita Acumulada.
 
 ---
@@ -36,8 +36,5 @@ O dashboard desenvolvido revelou:
 
 ---
 
-## 🌐 Estudo de Caso Completo e Dashboard
-
-Clique no link abaixo para ver a **visualização interativa** e o **estudo de caso completo** deste projeto no meu portfólio principal:
-
-**🌐 [Ver Estudo de Caso Detalhado no Site Pessoal]**(Link para a aba 'Página do Projeto' no seu Google Site)
+## 🔗 Acesso ao Projeto
+* **🌐 [Ver Estudo de Caso Detalhado no Site Pessoal]** (Link para a aba 'Página do Projeto' no seu Google Site)
