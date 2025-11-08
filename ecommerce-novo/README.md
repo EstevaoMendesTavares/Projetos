@@ -6,9 +6,11 @@ Este projeto apresenta a análise de desempenho de um e-commerce fictício, com 
 
 ## 🖼️ Prévia do Dashboard
 
-![Dashboard de E-commerce](./dashboard-ecommerce.png)
+<p align="center">
+  <img src="./dashboard-ecommerce.png" alt="Dashboard de E-commerce" width="900"/>
+</p>
 
-*(Visualização principal do painel desenvolvido no Excel)*
+*(Visualização principal do painel desenvolvido no Power BI)*
 
 ---
 
@@ -23,16 +25,16 @@ Este projeto apresenta a análise de desempenho de um e-commerce fictício, com 
 
 ## 🛠️ Metodologia e Pipeline de Dados
 
-**Ferramentas Utilizadas:** Excel (Tabelas Dinâmicas, Power Query), Power BI (apoio visual).
+**Ferramentas Utilizadas:** Power BI, Power Query, Excel (apoio).
 
 1. **Tratamento e Limpeza de Dados:**  
-   * Os dados foram organizados em tabelas de pedidos e produtos, com ajustes de formatação e criação de métricas personalizadas.  
-   * As etapas de preparação foram realizadas via **Power Query**, garantindo consistência e integridade das informações.
+   * Os dados foram importados e tratados via **Power Query**, com ajustes de formatação, criação de colunas calculadas e medidas em DAX.  
+   * As tabelas de pedidos, produtos e clientes foram integradas em um modelo relacional otimizado.
 
 2. **Análise e Visualização:**  
-   * Construção de **tabelas dinâmicas e gráficos interativos** no Excel.  
-   * Indicadores-chave: Receita Total, Ticket Médio, Vendas por Categoria e Canal de Venda.  
-   * Layout desenvolvido para destacar os **principais KPIs e tendências de variação mensal**.
+   * Criação de **gráficos dinâmicos e indicadores personalizados** no Power BI.  
+   * Métricas principais: Receita Total, Ticket Médio, Vendas por Categoria, Vendas por Canal e Tendência Mensal.  
+   * Design responsivo e intuitivo, destacando os **principais KPIs e variações de desempenho**.
 
 ---
 
@@ -46,5 +48,13 @@ O dashboard revelou:
 
 ---
 
+## 📂 Arquivos do Projeto
+
+📎 **dashboard-ecommerce.pbix** — Arquivo principal do Power BI.  
+🖼️ **dashboard-ecommerce.png** — Visual principal do painel.  
+
+---
+
 ## 🔗 Acesso ao Projeto
+
 🌐 [Ver Estudo de Caso no Site Pessoal](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
