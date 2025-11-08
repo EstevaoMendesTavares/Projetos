@@ -4,6 +4,16 @@ Este projeto simula a análise de dados de vendas de uma loja Starbucks, com foc
 
 ---
 
+## 🖼️ Prévia do Dashboard
+
+<p align="center">
+  <img src="./Starbuck.png" alt="Dashboard de Vendas Starbucks" width="900"/>
+</p>
+
+*(Visualização principal do painel desenvolvido no Power BI)*
+
+---
+
 ## 🎯 Desafio de Análise
 
 > **Objetivo:** Oferecer uma visão gerencial rápida sobre os fatores que mais impactam a receita diária de uma unidade de varejo de alimentos e bebidas.
@@ -16,11 +26,11 @@ Este projeto simula a análise de dados de vendas de uma loja Starbucks, com foc
 
 **Tecnologias Utilizadas:** Power BI, Excel/CSV, Power Query.
 
-1.  **ETL e Transformação de Dados:**
-    * O tratamento de dados foi realizado via **Power Query**, focando na limpeza e padronização das colunas de tempo para criar a dimensão de `Turno` (Manhã, Tarde, Noite).
+1. **ETL e Transformação de Dados:**
+   * O tratamento de dados foi realizado via **Power Query**, focando na limpeza e padronização das colunas de tempo para criar a dimensão de `Turno` (Manhã, Tarde, Noite).
 
-2.  **Modelagem e DAX:**
-    * O modelo foi desenhado para calcular a **Receita por Turno** e a **Distribuição Percentual de Pagamentos**.
+2. **Modelagem e DAX:**
+   * O modelo foi desenhado para calcular a **Receita por Turno** e a **Distribuição Percentual de Pagamentos**.
 
 ---
 
@@ -34,4 +44,5 @@ O dashboard revelou os seguintes insights (baseado nos dados fictícios):
 ---
 
 ## 🔗 Acesso ao Projeto
+
 🌐 [Ver Estudo de Caso Detalhado no Site Pessoal](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
