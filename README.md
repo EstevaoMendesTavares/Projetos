@@ -9,6 +9,7 @@ Bem-vindo ao meu repositório de projetos. Aqui estão os códigos, bases de dad
 | Projeto | Habilidades |
 | :--- | :--- |
 | [**Dashboard de Vendas E-commerce**](./ecommerce-vendas) | Power BI, SQL, Modelagem, Insights de Negócios |
+| [**Dashboard de Vendas E-commerce (Novo)**](./ecommerce-novo) | Power BI, Excel, Power Query, Indicadores de Desempenho |
 | [**Dashboard de Vendas Starbucks**](./starbucks-vendas) | Power BI, Power Query, Visualização de Dados |
 
 ---
