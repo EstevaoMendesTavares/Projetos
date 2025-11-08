@@ -48,13 +48,6 @@ O dashboard revelou:
 
 ---
 
-## 📂 Arquivos do Projeto
-
-📎 **dashboard-ecommerce.pbix** — Arquivo principal do Power BI.  
-🖼️ **dashboard-ecommerce.png** — Visual principal do painel.  
-
----
-
 ## 🔗 Acesso ao Projeto
 
 🌐 [Ver Estudo de Caso no Site Pessoal](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
