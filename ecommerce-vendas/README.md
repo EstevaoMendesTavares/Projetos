@@ -4,6 +4,16 @@ Este projeto foca na análise de vendas e comportamento do cliente para uma empr
 
 ---
 
+## 🖼️ Prévia do Dashboard
+
+<p align="center">
+  <img src="./Vendas E-commerce.png" alt="Dashboard de Vendas E-commerce" width="900"/>
+</p>
+
+*(Visualização principal do painel desenvolvido no Power BI)*
+
+---
+
 ## 🎯 Desafio de Negócios
 
 > **Objetivo:** Estabelecer o contexto e a relevância da análise.
@@ -17,13 +27,13 @@ Este projeto foca na análise de vendas e comportamento do cliente para uma empr
 
 **Tecnologias Utilizadas:** Power BI, Excel/CSV, Power Query.
 
-1.  **ETL e Transformação de Dados:**
-    * A base de dados foi carregada a partir dos arquivos Excel/CSV.
-    * O tratamento, limpeza e transformação de dados (ETL) foram realizados integralmente via **Power Query (M Language)** dentro do Power BI, para garantir a qualidade do modelo.
+1. **ETL e Transformação de Dados:**
+   * A base de dados foi carregada a partir dos arquivos Excel/CSV.
+   * O tratamento, limpeza e transformação de dados (ETL) foram realizados integralmente via **Power Query (M Language)** dentro do Power BI, para garantir a qualidade do modelo.
 
-2.  **Modelagem e DAX:**
-    * A modelagem de dados foi organizada no **Esquema Estrela** para otimizar o desempenho e a navegabilidade do Power BI.
-    * Criei medidas e colunas calculadas em **DAX** para: Taxa de Conclusão de Pedidos e Receita Acumulada.
+2. **Modelagem e DAX:**
+   * A modelagem de dados foi organizada no **Esquema Estrela** para otimizar o desempenho e a navegabilidade do Power BI.
+   * Criei medidas e colunas calculadas em **DAX** para: Taxa de Conclusão de Pedidos e Receita Acumulada.
 
 ---
 
@@ -37,4 +47,5 @@ O dashboard desenvolvido revelou:
 ---
 
 ## 🔗 Acesso ao Projeto
+
 🌐 [Ver Estudo de Caso Detalhado no Site Pessoal](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
