@@ -4,6 +4,14 @@ Este projeto apresenta a análise de desempenho de um e-commerce fictício, com 
 
 ---
 
+## 🖼️ Prévia do Dashboard
+
+![Dashboard de E-commerce](./dashboard-ecommerce.png)
+
+*(Visualização principal do painel desenvolvido no Excel)*
+
+---
+
 ## 🎯 Desafio de Negócios
 
 > **Objetivo:** Analisar o desempenho comercial e identificar padrões que influenciam a performance das vendas.
