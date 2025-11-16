@@ -7,7 +7,7 @@ Este projeto apresenta uma análise financeira fictícia com foco em entender o 
 ## 🖼️ Prévia do Dashboard
 
 <p align="center">
-  <img src="./dashboard-financeiro.png" alt="Dashboard Financeiro" width="900"/>
+  <img src="./financeiro.png" alt="Dashboard Financeiro" width="900"/>
 </p>
 
 ---
