@@ -30,6 +30,25 @@ Este projeto apresenta uma análise financeira fictícia com foco em entender o 
 
 ---
 
+### 🧮 Medidas DAX Utilizadas
+
+Receita Total = SUM('base_financeira'[receita])
+
+Custo Total = SUM('base_financeira'[custo])
+
+Lucro = [Receita Total] - [Custo Total]
+
+Receita Acumulada =
+CALCULATE(
+    [Receita Total],
+    FILTER(
+        ALL('base_financeira'),
+        'base_financeira'[data] <= MAX('base_financeira'[data])
+    )
+)
+
+---
+
 ## 💡 Principais Insights
 
 A análise financeira mostrou:
