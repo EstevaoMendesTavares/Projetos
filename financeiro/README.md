@@ -44,5 +44,5 @@ Esses padrões ajudam a direcionar ações de ajuste, controle e planejamento pa
 
 ## 🔗 Acesso ao Projeto
 
-🌐 **Link do Dashboard:** *adicione aqui o URL do seu GitHub ou Power BI*
+🌐 [Ver Estudo de Caso Detalhado no Site Pessoal](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial)
 
