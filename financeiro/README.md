@@ -1,28 +1,48 @@
 # 📊 Estudo de Caso: Dashboard Financeiro
 
-Este projeto apresenta uma análise financeira fictícia construída no Power BI, com foco em acompanhar evolução da receita, comportamento dos custos e impacto direto no lucro ao longo dos meses.
+Este projeto apresenta uma análise financeira fictícia com foco em entender o comportamento da receita, custos e lucro ao longo do ano, oferecendo uma visão clara sobre a saúde operacional e eficiência dos turnos.
 
 ---
 
-## 🎯 Contexto do Negócio
+## 🖼️ Prévia do Dashboard
 
-O objetivo foi entender como a operação evoluiu durante o ano, identificando meses de maior crescimento e períodos de redução de desempenho. A análise considera receita, custos operacionais e lucro, permitindo visualizar o comportamento financeiro mês a mês.
+<p align="center">
+  <img src="./dashboard-financeiro.png" alt="Dashboard Financeiro" width="900"/>
+</p>
+
+---
+
+## 🎯 Desafio de Negócios
+
+> **Objetivo:** Avaliar o desempenho financeiro mensal e identificar pontos de atenção entre receita e custos.
+>
+> A empresa buscava visualizar de forma simples como os valores evoluíram ao longo do ano, além de entender quais turnos contribuíram mais para o faturamento e onde estavam os maiores gastos. A proposta do dashboard foi transformar esses números em insights práticos para apoiar decisões do dia a dia.
 
 ---
 
 ## 🛠️ Metodologia
 
-Os dados foram tratados no Power Query e organizados em uma única tabela base. Em seguida, foram criadas medidas em DAX para calcular **receita total**, **custo total**, **lucro** e **receita acumulada**, permitindo a construção de indicadores claros e comparáveis.
+**Ferramentas:** Power BI, Power Query, Excel.
+
+* Os dados foram tratados no Power Query, com padronização de tipos e criação de colunas auxiliares (como número do mês para ordenação).
+* No Power BI foram criadas medidas em DAX para cálculo de indicadores como **receita acumulada, custo acumulado e lucro**.
+* O layout foi construído destacando KPIs principais e análises mensais, mantendo clareza e navegação intuitiva.
 
 ---
 
 ## 💡 Principais Insights
 
-A receita apresentou um início forte, mas perdeu ritmo ao longo do ano, enquanto os custos se mantiveram estáveis — reduzindo a margem em alguns períodos. O lucro acompanha essa variação, mostrando como pequenas oscilações na operação impactam diretamente o resultado final.  
-A análise mensal facilita identificar picos, quedas e oportunidades de ajuste financeiro.
+A análise financeira mostrou:
+
+* A **receita se manteve estável**, mas alguns meses apresentaram custos mais elevados, reduzindo o lucro.
+* O **turno da manhã** concentrou a maior parte da receita, indicando melhor desempenho operacional.
+* O indicador de **lucro mensal** tornou mais clara a relação entre crescimento da receita e aumento de custos.
+
+Esses padrões ajudam a direcionar ações de ajuste, controle e planejamento para os meses seguintes.
 
 ---
 
-## 🔗 Acesso ao Dashboard
+## 🔗 Acesso ao Projeto
 
-📈 *Projeto desenvolvido para fins de estudo e portfólio. Pode ser acessado no Power BI ou integrado ao GitHub conforme necessidade.*
+🌐 **Link do Dashboard:** *adicione aqui o URL do seu GitHub ou Power BI*
+
