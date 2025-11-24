@@ -50,4 +50,4 @@ O dashboard revelou:
 
 ## 🔗 Acesso ao Projeto
 
-🌐 [Ver Estudo de Caso no Site Pessoal]([https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial](https://sites.google.com/view/estevaoadm/p%C3%A1gina-inicial#h.4yw0kpduuu4z))
+🌐 [Ver Estudo de Caso no Site Pessoal])([https://sites.google.com/view/estevaoadm/página-inicial](https://sites.google.com/view/estevaoadm/página-inicial#h.4yw0kpduuu4z))
